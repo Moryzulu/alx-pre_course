@@ -1,1 +1,1 @@
-my first repo  read me file
+I would like to complete my ALX journey this time
